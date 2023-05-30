@@ -30,8 +30,8 @@
 .gradle/
 
 # Build
-.build
-.build/
+build
+build/
 
 
 # Gradle and Maven with auto-import
