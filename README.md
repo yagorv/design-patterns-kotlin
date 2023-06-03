@@ -1,7 +1,8 @@
 🚧🚧 Working... 🚧🚧
 
-🚧🚧 I will add a couple of examples of each design pattern each week until the entire list is complete. 🚧🚧
-Feel free to contribute 👼
+⚠️ I will add a couple of examples of each design pattern each week until the entire list is complete ⚠️
+
+Feel free to contribute
 
 # Design Patterns Examples Repository
 
