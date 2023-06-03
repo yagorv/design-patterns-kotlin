@@ -1,3 +1,8 @@
+🚧🚧 Working... 🚧🚧
+
+🚧🚧 I will add a couple of examples of each design pattern each week until the entire list is complete. 🚧🚧
+Feel free to contribute 👼
+
 # Design Patterns Examples Repository
 
 Welcome to the Design Patterns Examples Repository! This repository contains examples of various design patterns implemented in different programming languages. Each design pattern is demonstrated through a practical example to help you understand its purpose, benefits, and implementation.
@@ -8,40 +13,40 @@ Welcome to the Design Patterns Examples Repository! This repository contains exa
 
 Related to the process of creating an object.
 
-* [Abstract Factory](#abstract-factory-pattern)
-* [Builder](#builder-pattern)
-* [Factory or Factory Method](#factory-pattern)
-* [Prototype](#prototype-pattern)
-* [Singleton](#singleton-pattern)
-* [Object Pool](#object-pool-pattern)
+* [Abstract Factory ❌](#abstract-factory-pattern)
+* [Builder ✅](#builder-pattern)
+* [Factory or Factory Method ❌](#factory-pattern)
+* [Prototype ❌](#prototype-pattern)
+* [Singleton ❌](#singleton-pattern)
+* [Object Pool ❌](#object-pool-pattern)
 
 ### Structural Patterns
 
 Class or object composition.
 
-* [Adapter](#adapter-pattern)
-* [Composite](#composite-pattern)
-* [Decorator](#decorator-pattern)
-* [Facade](#facade-pattern)
-* [Proxy](#proxy-pattern)
-* [Bridge](#bridge-pattern)
-* [Flyweight](#flyweight-pattern)
+* [Adapter ✅](#adapter-pattern)
+* [Composite ✅](#composite-pattern)
+* [Decorator ❌](#decorator-pattern)
+* [Facade ❌](#facade-pattern)
+* [Proxy ❌](#proxy-pattern)
+* [Bridge ❌](#bridge-pattern)
+* [Flyweight ❌](#flyweight-pattern)
 
 ### Behavioral Patterns
 
 How classes or objects interact and distribute functionality.
 
-* [Command](#command-pattern)
-* [Observer](#observer-pattern)
-* [Strategy](#strategy-pattern)
-* [Chain of Responsibility](#chain-of-responsibility-pattern)
-* [Memento](#memento-pattern)
-* [Mediator](#mediator-pattern)
-* [Template Method](#template-method-pattern)
-* [Iterator](#iterator-pattern)
-* [Visitor](#visitor-pattern)
-* [State](#state-pattern)
-* [Interpreter](#interpreter-pattern)
+* [Command ❌](#command-pattern)
+* [Observer ❌](#observer-pattern)
+* [Strategy ❌](#strategy-pattern)
+* [Chain of Responsibility ❌](#chain-of-responsibility-pattern)
+* [Memento ❌](#memento-pattern)
+* [Mediator ❌](#mediator-pattern)
+* [Template Method ❌](#template-method-pattern)
+* [Iterator ❌](#iterator-pattern)
+* [Visitor ❌](#visitor-pattern)
+* [State ❌](#state-pattern)
+* [Interpreter ❌](#interpreter-pattern)
 
 ## Patterns Included
 
