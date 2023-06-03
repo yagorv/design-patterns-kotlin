@@ -2,7 +2,7 @@
 
 Welcome to the Design Patterns Examples Repository! This repository contains examples of various design patterns implemented in different programming languages. Each design pattern is demonstrated through a practical example to help you understand its purpose, benefits, and implementation.
 
-## <a name="lista-de-patrones">Design Pattern List.</a>
+## Design Pattern List
 
 ### Creational Patterns
 
@@ -10,7 +10,7 @@ Related to the process of creating an object.
 
 * [Abstract Factory](#abstract-factory)
 * [Builder](#builder)
-* [Factory o Factory Method](#factory)
+* [Factory or Factory Method](#factory)
 * [Prototype](#prototype)
 * [Singleton](#singleton)
 * [Object Pool](#objectpool)
@@ -34,7 +34,7 @@ How classes or objects interact and distribute functionality.
 * [Command](#command)
 * [Observer](#observer)
 * [Strategy](#strategy)
-* [Chain of Responsability](#chain)
+* [Chain of Responsibility](#chain)
 * [Memento](#memento)
 * [Mediator](#mediator)
 * [Template method](#template)
@@ -50,7 +50,7 @@ Here's a list of design patterns covered in this repository along with a detaile
 ### Adapter Pattern
 The Adapter pattern allows objects with incompatible interfaces to work together by creating a common interface that both objects can use. It acts as a bridge between two incompatible classes, converting the interface of one class to match the expectations of the other.
 
-![Adapter Pattern](images/adapter-pattern.png)
+![Adapter Pattern](https://example.com/adapter-pattern.png)
 
 ### Bridge Pattern
 The Bridge pattern decouples an abstraction from its implementation, allowing them to vary independently. It enables the separation of the abstraction and its implementation into separate class hierarchies, making it easier to modify and extend them independently.
