@@ -2,6 +2,12 @@
 
 Welcome to the Design Patterns Examples Repository! This repository contains examples of various design patterns implemented in different programming languages. Each design pattern is demonstrated through a practical example to help you understand its purpose, benefits, and implementation.
 
+## Tabla de contenidos
+
+- [Introducción](#introducción)
+- [Patrones de diseño](#patrones-de-diseño)
+- [Conclusiones](#conclusiones)
+
 ## Design Pattern List
 
 ### Creational Patterns
@@ -19,7 +25,7 @@ Related to the process of creating an object.
 
 Class or object composition.
 
-* [Adapter](#adapter)
+* [Adapter](#adapter-pattern)
 * [Composite](#composite)
 * [Decorator](#decorator)
 * [Facade](#facade)
