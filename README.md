@@ -2,6 +2,47 @@
 
 Welcome to the Design Patterns Examples Repository! This repository contains examples of various design patterns implemented in different programming languages. Each design pattern is demonstrated through a practical example to help you understand its purpose, benefits, and implementation.
 
+## <a name="lista-de-patrones">Design Pattern List.</a>
+
+### Creational Patterns
+
+Related to the process of creating an object.
+
+* [Abstract Factory](#abstract-factory)
+* [Builder](#builder)
+* [Factory o Factory Method](#factory)
+* [Prototype](#prototype)
+* [Singleton](#singleton)
+* [Object Pool](#objectpool)
+
+### Structural Patterns
+
+Class or object composition.
+
+* [Adapter](#adapter)
+* [Composite](#composite)
+* [Decorator](#decorator)
+* [Facade](#facade)
+* [Proxy](#proxy)
+* [Bridge](#bridge)
+* [Flyweight](#flyweigh)
+
+### Behavioral Patterns
+
+How classes or objects interact and distribute functionality.
+
+* [Command](#command)
+* [Observer](#observer)
+* [Strategy](#strategy)
+* [Chain of Responsability](#chain)
+* [Memento](#memento)
+* [Mediator](#mediator)
+* [Template method](#template)
+* [Iterator](#iterator)
+* [Visitor](#visitor)
+* [State](#state)
+* [Interpreter](#interpreter)
+
 ## Patterns Included
 
 Here's a list of design patterns covered in this repository along with a detailed description and an associated image for each:
