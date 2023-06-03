@@ -8,40 +8,40 @@ Welcome to the Design Patterns Examples Repository! This repository contains exa
 
 Related to the process of creating an object.
 
-* [Abstract Factory](#abstract-factory)
-* [Builder](#builder)
-* [Factory or Factory Method](#factory)
-* [Prototype](#prototype)
-* [Singleton](#singleton)
-* [Object Pool](#object-pool)
+* [Abstract Factory](#abstract-factory-pattern)
+* [Builder](#builder-pattern)
+* [Factory or Factory Method](#factory-pattern)
+* [Prototype](#prototype-pattern)
+* [Singleton](#singleton-pattern)
+* [Object Pool](#object-pool-pattern)
 
 ### Structural Patterns
 
 Class or object composition.
 
 * [Adapter](#adapter-pattern)
-* [Composite](#composite)
-* [Decorator](#decorator)
-* [Facade](#facade)
-* [Proxy](#proxy)
-* [Bridge](#bridge)
-* [Flyweight](#flyweight)
+* [Composite](#composite-pattern)
+* [Decorator](#decorator-pattern)
+* [Facade](#facade-pattern)
+* [Proxy](#proxy-pattern)
+* [Bridge](#bridge-pattern)
+* [Flyweight](#flyweight-pattern)
 
 ### Behavioral Patterns
 
 How classes or objects interact and distribute functionality.
 
-* [Command](#command)
-* [Observer](#observer)
-* [Strategy](#strategy)
-* [Chain of Responsibility](#chain-of-responsibility)
-* [Memento](#memento)
-* [Mediator](#mediator)
-* [Template Method](#template-method)
-* [Iterator](#iterator)
-* [Visitor](#visitor)
-* [State](#state)
-* [Interpreter](#interpreter)
+* [Command](#command-pattern)
+* [Observer](#observer-pattern)
+* [Strategy](#strategy-pattern)
+* [Chain of Responsibility](#chain-of-responsibility-pattern)
+* [Memento](#memento-pattern)
+* [Mediator](#mediator-pattern)
+* [Template Method](#template-method-pattern)
+* [Iterator](#iterator-pattern)
+* [Visitor](#visitor-pattern)
+* [State](#state-pattern)
+* [Interpreter](#interpreter-pattern)
 
 ## Patterns Included
 
